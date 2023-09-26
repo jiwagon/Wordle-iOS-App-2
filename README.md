@@ -2,7 +2,7 @@
 
 Submitted by: Ji Zhang
 
-**Name of your app** is an app that ... [TODO] 
+Wordle is an app that has a simple word puzzle game where players have six attempts to guess a five-letter word, with each correct letter placement revealed by color hints after each guess.
 
 Time spent: **X** hours spent in total
 
@@ -10,10 +10,10 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can change the number of letters per row (the length of the goal word)
-- [ ] User can change the numbers of rows on the board (how many guesses allowed)
-- [ ] User can select a new themed set to pull the goal word from
-- [ ] User can select "alien wordle", causing the goal word to change after each guess
+- [x] User can change the number of letters per row (the length of the goal word)
+- [x] User can change the numbers of rows on the board (how many guesses allowed)
+- [x] User can select a new themed set to pull the goal word from
+- [x] User can select "alien wordle", causing the goal word to change after each guess
 
 
 The following **optional** features are implemented:
@@ -49,3 +49,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
