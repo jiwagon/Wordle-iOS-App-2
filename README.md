@@ -30,14 +30,10 @@ The following **additional** features are implemented:
     <a href="https://www.loom.com/share/8bb9de5257ee48f19180105326531284">
     </a>
     <a href="https://www.loom.com/share/8bb9de5257ee48f19180105326531284">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8bb9de5257ee48f19180105326531284-with-play.gif">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8bb9de5257ee48f19180105326531284-1695789881286-with-play.gif">
     </a>
   </div>
-
-<div style="position: relative; padding-bottom: 216%; height: 0;">
-    <iframe src="https://www.loom.com/embed/8bb9de5257ee48f19180105326531284?sid=b4030dd3-6518-4f80-abe9-415e5ec1a26b" frameborder="0" webkitallowfullscreen                mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    </iframe>
-</div>
+  
 
 ## Notes
 
