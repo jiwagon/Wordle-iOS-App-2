@@ -52,18 +52,15 @@ class ViewController: UIViewController,
                                             action: #selector(didTapResetButton))
     leftBarButtonItem.tintColor = .white
     navigationItem.leftBarButtonItem = leftBarButtonItem
-        // END YOUR CODE HERE
+    // END YOUR CODE HERE
   }
     
   @objc private func didTapSettingsButton() {
     performSegue(withIdentifier: segueIdentifier, sender: nil)
   }
-      
-  
 
-  
-  @objc private func didTapSettingsButton() {
-    performSegue(withIdentifier: segueIdentifier, sender: nil)
+  @objc private func didTapResetButton() {
+      // Invoke resetBoardWithCurrentSettings function
   }
   
   override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
