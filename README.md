@@ -26,11 +26,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+Right-click to open in a new tab!
+
 <div>
     <a href="https://www.loom.com/share/8bb9de5257ee48f19180105326531284">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8bb9de5257ee48f19180105326531284-1695790188252-with-play.gif">
     </a>
 </div>
+
 
 ## Notes
 
