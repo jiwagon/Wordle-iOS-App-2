@@ -2,9 +2,9 @@
 
 Submitted by: Ji Zhang
 
-Wordle is an app that has a simple word puzzle game where players have six attempts to guess a five-letter word, with each correct letter placement revealed by color hints after each guess.
+Wordle is an app that has a word puzzle game where players have several attempts to guess a word, with each correct letter placement revealed by color hints after each guess. Users can select the number of guesses from 3 to 8 and the number of letters for the goal word from 4 to 7. There are different word theme: Normal, Animals, and Countries. To make the game more challenging, users can select Alien Wordle mode, in which each guess has a new goal word, meaning users only have one guess to get the word right! 
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
+- [x] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
@@ -26,13 +26,22 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<div>
+    <a href="https://www.loom.com/share/8bb9de5257ee48f19180105326531284">
+    </a>
+    <a href="https://www.loom.com/share/8bb9de5257ee48f19180105326531284">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8bb9de5257ee48f19180105326531284-with-play.gif">
+    </a>
+  </div>
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4).
+<div style="position: relative; padding-bottom: 216%; height: 0;">
+    <iframe src="https://www.loom.com/embed/8bb9de5257ee48f19180105326531284?sid=b4030dd3-6518-4f80-abe9-415e5ec1a26b" frameborder="0" webkitallowfullscreen                mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+</div>
 
 ## Notes
 
-Still fixing errors in ViewController
+The exercises were challenging enough for me, but I did not get stuck at any part for a significant amount of time. The instructions, hints, and comments provided were sufficient for me to solve the errors independently.
 
 ## License
 
