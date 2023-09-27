@@ -61,6 +61,7 @@ class ViewController: UIViewController,
 
   @objc private func didTapResetButton() {
       // Invoke resetBoardWithCurrentSettings function
+      boardController.resetBoardWithCurrentSettings()
   }
   
   override func prepare(for segue: UIStoryboardSegue, sender: Any?) {

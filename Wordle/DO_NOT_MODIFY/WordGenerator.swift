@@ -40,9 +40,13 @@ enum WordTheme: String {
     } else if numLetters == kMinLetters + 1 {
       return ["HORSE", "PANDA", "ZEBRA"]
     } else if numLetters == kMinLetters + 2 {
-      return ["JAGUAR", "PELICAN", "DOLPHIN"]
+      return ["JAGUAR", "MONKEY", "RABBIT"]
+      // Original code, but it is out of kMinLetters + 2 limitation, which is 6, not 7
+      // return ["JAGUAR", "PELICAN", "DOLPHIN"]
     } else if numLetters == kMaxLetters {
-      return ["ELEPHANT", "GIRAFFE", "PLATYPUS"]
+      return ["PELICAN", "GIRAFFE", "DOLPHIN"]
+      // Original code, but it is out of max letter limitation, which is 7, not 8
+      // return ["ELEPHANT", "GIRAFFE", "PLATYPUS"]
     }
     return []
   }
