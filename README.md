@@ -31,7 +31,7 @@ The following **additional** features are implemented:
       <p>Watch Wordle Demo on Loom</p>
     </a>
     <a href="https://www.loom.com/share/8bb9de5257ee48f19180105326531284">
-      <img style="max-width:300px;" src="https://i.imgur.com/DLFhyUm.gif">
+      <img style="max-width:300px;" src="https://i.imgur.com/DLFhyUm.gif" width="252" height="540">
     </a>
   </div>
 
@@ -41,7 +41,7 @@ The following **additional** features are implemented:
       <p>Alien Wordle Function Demo on Loom</p>
     </a>
     <a href="https://www.loom.com/share/13d107120d7245b5847ca329691d56b5">
-      <img style="max-width:300px;" src="https://i.imgur.com/6tiwaRd.gif">
+      <img style="max-width:300px;" src="https://i.imgur.com/6tiwaRd.gif" width="252" height="540">
     </a>
   </div>
 
