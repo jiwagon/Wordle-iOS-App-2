@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Right-click to open in a new tab!
+Right-click to open the video in a new tab!
 
 <div>
     <a href="https://www.loom.com/share/8bb9de5257ee48f19180105326531284">
@@ -35,9 +35,23 @@ Right-click to open in a new tab!
 </div>
 
 
+Alien Wordle Function Demo
+
+<div>
+    <a href="https://www.loom.com/share/13d107120d7245b5847ca329691d56b5">
+      <p>Home | Loom - 27 September 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/13d107120d7245b5847ca329691d56b5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/13d107120d7245b5847ca329691d56b5-with-play.gif">
+    </a>
+  </div>
+
+
 ## Notes
 
 The exercises were challenging enough for me, but I did not get stuck at any part for a significant amount of time. The instructions, hints, and comments provided were sufficient for me to solve the errors independently.
+
+However, I did modify the strings of the word arrays in the WordGenerator file. There were 8-letter words in the supposedly 7-letter words array and 7-letter words in the supposedly 6-letter words array, so I replaced those incorrectly placed words. 
 
 ## License
 
