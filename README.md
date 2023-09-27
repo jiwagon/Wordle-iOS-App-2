@@ -4,7 +4,7 @@ Submitted by: Ji Zhang
 
 Wordle is an app that has a word puzzle game where players have several attempts to guess a word, with each correct letter placement revealed by color hints after each guess. Users can select the number of guesses from 3 to 8 and the number of letters for the goal word from 4 to 7. There are different word theme: Normal, Animals, and Countries. To make the game more challenging, users can select Alien Wordle mode, in which each guess has a new goal word, meaning users only have one guess to get the word right! 
 
-Time spent: 6 hours spent in total
+Time spent: 9 hours spent in total
 
 ## Required Features
 
