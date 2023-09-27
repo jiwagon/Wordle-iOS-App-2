@@ -28,21 +28,20 @@ The following **additional** features are implemented:
 
 <div>
     <a href="https://www.loom.com/share/8bb9de5257ee48f19180105326531284">
-      <p>Wordle Demo</p>
+      <p>Watch Wordle Demo on Loom</p>
     </a>
     <a href="https://www.loom.com/share/8bb9de5257ee48f19180105326531284">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8bb9de5257ee48f19180105326531284-1695790188252-with-play.gif">
+      <img style="max-width:300px;" src="https://i.imgur.com/DLFhyUm.gif">
     </a>
-    
   </div>
 
 <div>
-    <br><br>
+    <br>
     <a href="https://www.loom.com/share/13d107120d7245b5847ca329691d56b5">
-      <p>Alien Wordle Function Demo</p>
+      <p>Alien Wordle Function Demo on Loom</p>
     </a>
     <a href="https://www.loom.com/share/13d107120d7245b5847ca329691d56b5">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/13d107120d7245b5847ca329691d56b5-with-play.gif">
+      <img style="max-width:300px;" src="https://i.imgur.com/6tiwaRd.gif">
     </a>
   </div>
 
