@@ -26,20 +26,19 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Right-click to open the video in a new tab!
-
 <div>
     <a href="https://www.loom.com/share/8bb9de5257ee48f19180105326531284">
+        <p>Wordle Demo</p>
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8bb9de5257ee48f19180105326531284-1695790188252-with-play.gif">
     </a>
 </div>
 
 
-Alien Wordle Function Demo
+
 
 <div>
     <a href="https://www.loom.com/share/13d107120d7245b5847ca329691d56b5">
-      <p>Home | Loom - 27 September 2023 - Watch Video</p>
+      <p>Alien Wordle Function Demo</p>
     </a>
     <a href="https://www.loom.com/share/13d107120d7245b5847ca329691d56b5">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/13d107120d7245b5847ca329691d56b5-with-play.gif">
